@@ -68,17 +68,6 @@ My work centers on building end-to-end applications that integrate intelligent m
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salimsa7&show_icons=true&hide_title=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salimsa7" />
-</p>
-
----
-
 ## 📌 Current Focus
 - 🤖 Building AI-powered web applications
 - 🧠 LLM integration in full-stack products
