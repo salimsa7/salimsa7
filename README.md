@@ -1,5 +1,99 @@
-# 💫 About Me:
-# Hi, I'm Salim 👋<br><br>## 👨‍💻 About Me<br>- Software developer<br>- Interested in backend, APIs, and scalable systems<br>- Always learning, always building<br><br>## 🛠 Tech Stack<br>- Languages: JavaScript, Python<br>- Backend: Node.js, Express<br>- Databases: MongoDB, PostgreSQL<br>- Tools: Git, Docker, Linux<br><br>## 📊 GitHub Stats<br>![Salim's GitHub stats](https://github-readme-stats.vercel.app/api?username=salimsa7&show_icons=true&theme=dark)<br><br>## 📫 Contact<br>- GitHub: https://github.com/salimsa7<br>
+<h1 align="center">Hi, I'm Salim 👋</h1>
+<h3 align="center">AI-Focused Software Engineer | Full-Stack Web Developer</h3>
+
+---
+
+## 🧠 About Me
+I am a **Full-Stack Web Developer** with a strong focus on **AI-powered products** and scalable backend systems.  
+My work centers on building end-to-end applications that integrate intelligent models into reliable, production-ready web platforms.
+
+- 🤖 Applied AI & LLM-driven systems  
+- 🌐 End-to-end full-stack web development  
+- 🧩 Clean architecture, maintainability, and performance  
+- 🚀 From prototype to production  
+
+---
+
+## 🚀 AI & Intelligent Systems
+- 🧠 Large Language Models (LLMs)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ⚙️ AI agents & automation workflows
+- 🔗 AI-powered APIs & services
+- 📊 Data pipelines & model integration
+
+---
+
+## 🌐 Full-Stack Web Development
+- 🖥 Frontend: modern, responsive web interfaces
+- ⚙️ Backend: scalable APIs & business logic
+- 🗄 Databases: structured & unstructured data
+- 🔐 Authentication, authorization, and security
+- 🚀 Deployment & production monitoring
+
+---
+
+## 🛠 Tech Stack
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript" />
+</p>
+
+### 🤖 AI / ML
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### 🔧 Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### 🗄 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+### ⚙️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salimsa7&show_icons=true&hide_title=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salimsa7" />
+</p>
+
+---
+
+## 📌 Current Focus
+- 🤖 Building AI-powered web applications
+- 🧠 LLM integration in full-stack products
+- ⚙️ Automation & intelligent workflows
+- 🌐 Scalable web platforms with AI at the core
+
+---
+
+## 📫 Connect
+<p>
+  <a href="https://github.com/salimsa7">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
 
 
 ## 🌐 Socials:
